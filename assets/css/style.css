@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding:0;
+    border:0;
+}
+
+#logo-image{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin: 15px 10px 0px 20px;
+
+}
+#menu{
+    width: 100%;
+    background-color: #333333;
+    overflow:auto;
+    font-size: 110%;
+    letter-spacing:4px;
+    margin-right: 90px;
+}
+
+#menu ul{
+    padding: 0;
+    margin: 0 0 0 150px;
+}
+
+#menu li{
+    float: right;
+    list-style-type: none;
+    margin-right: 50px;
+}
+
+#menu a {
+    /* text-decoration: none;
+    color: rgb(148, 93, 11); */
+    width: 100px;
+    display: block;
+    padding: 40px 15px;
+    text-decoration: none;
+    color: #ffffff;  
+}
