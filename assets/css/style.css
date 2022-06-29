@@ -8,7 +8,9 @@
 
 body{
     font-family: 'Kanit', sans-serif;
+    color: white;
 }
+/* NAVIGATION BAR */
 
 #logo-image{
     position: absolute;
@@ -50,6 +52,7 @@ body{
     color: #ffffff;  
 }
 
+/* STAR BACKGROUND */
 #background-image{
     overflow: hidden;
     width: 100%;
@@ -58,6 +61,10 @@ body{
     z-index: -1;
 }
 
-h1{
-    color: white;
+/* MOVIE GRID SECTION */
+#grid-container{
+    display: flex;
 }
+
+
+
