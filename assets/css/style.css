@@ -17,6 +17,10 @@ body{
     margin: 15px 10px 0px 20px;
 
 }
+
+#light-saber{
+    margin-right: 20px;
+}
 #menu{
     width: 100%;
     background-color: #333333;
@@ -38,8 +42,6 @@ body{
 }
 
 #menu a {
-    /* text-decoration: none;
-    color: rgb(148, 93, 11); */
     text-decoration: none;
     width: 100px;
     display: block;
@@ -48,4 +50,14 @@ body{
     color: #ffffff;  
 }
 
+#background-image{
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+}
 
+h1{
+    color: white;
+}
