@@ -69,19 +69,31 @@ body{
     justify-content: center;
 }
 
+.row-1{
+    background-image: url(../images/phantom-menace.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    /* opacity: 0.6; */
+}
+
 #grid-container-1{
     padding-top: 50px;
+    
 }
 
 .row-1, .row-2, .row-3 {
     border: 2px solid purple;
-    height: 200px;
+    height: 250px;
     margin: 40px 20px 40px 20px;
     border-radius: 5px;
     width: 22%;
     text-align: center;
-
+    
 }
+
+
 
 
 
