@@ -53,16 +53,6 @@ body{
     color: #ffffff;  
 }
 
-/* STAR BACKGROUND */
-#background-image{
-    overflow: hidden;
-    width: 100%;
-    height: 200%;
-    position: absolute;
-    z-index: -1;
-    
-}
-
 /* MOVIE GRID SECTION */
 #grid-container-1,#grid-container-2,#grid-container-3{
     display: flex;
