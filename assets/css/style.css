@@ -59,7 +59,6 @@ body{
     display: flex;
     justify-content: center;
 }
-
 #grid-container-1 .row-1,.row-2,.row-3{
     transition: all 0.2s ease;
 }
@@ -93,49 +92,44 @@ body{
 
 #grid-container-1 .row-1{
     background: #000 url(../images/phantom-menace.jpg);
-    /* background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center; */
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    overflow: hidden;
-    color: #fff;
-    position: relative;
-    /* width: 100%; */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     overflow: hidden;
+     color: #fff;
+     position: relative;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+   
 }
 #grid-container-1 .row-2{
     background: #000 url(../images/attack-of-the-clones.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    overflow: hidden;
-    color: #fff;
-    position: relative;
-    /* width: 100%; */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     overflow: hidden;
+     color: #fff;
+     position: relative;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
 }
 
 #grid-container-1 .row-3{
     background: #000 url(../images/revenge-of-the-sith.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    overflow: hidden;
-    color: #fff;
-    position: relative;
-    /* width: 100%; */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     overflow: hidden;
+     color: #fff;
+     position: relative;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
 }
 
 #grid-container-2 .row-1{
@@ -146,7 +140,6 @@ body{
     overflow: hidden;
     color: #fff;
     position: relative;
-    /* width: 100%; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -161,7 +154,6 @@ body{
     overflow: hidden;
     color: #fff;
     position: relative;
-    /* width: 100%; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -176,7 +168,6 @@ body{
     overflow: hidden;
     color: #fff;
     position: relative;
-    /* width: 100%; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -239,7 +230,6 @@ body{
     overflow: hidden;
     color: #fff;
     position: relative;
-    /* width: 100%; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -248,16 +238,12 @@ body{
 
 #grid-container-4 .row-2{
     background: #000 url(../images/force-awakens.jpg);
-    /* background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center; */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     overflow: hidden;
     color: #fff;
     position: relative;
-    /* width: 100%; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -266,23 +252,17 @@ body{
 
 #grid-container-4 .row-3{
     background: #000 url(../images/force-awakens.jpg);
-    /* background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center; */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     overflow: hidden;
     color: #fff;
     position: relative;
-    /* width: 100%; */
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-
-
 
 .color-overlay{
     width: 100%;
