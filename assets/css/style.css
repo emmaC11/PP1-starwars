@@ -52,6 +52,11 @@ body{
     padding: 40px 15px;
     text-decoration: none;
     color: #ffffff;  
+    transition: all 0.2s ease;
+}
+
+#menu a:hover{
+    color:#1786eb; 
 }
 
 /* MOVIE GRID SECTION */
