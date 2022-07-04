@@ -537,7 +537,7 @@ body{
 }
 
 .planet-info-container .planet-box:nth-child(7){
-    grid-column: span 2;
+    grid-column: span 3;
     grid-row: span 1;
 } 
 
