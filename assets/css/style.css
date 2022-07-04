@@ -598,6 +598,14 @@ body{
     display: flex;  
     flex-direction: column;
     justify-content: center;  
-    align-items: center;
-    
+    align-items: center;  
+}
+
+.phrase-card .phrase{
+   font-family: 'Righteous', cursive; 
+   font-size: xx-large;
+   width: 100%;
+   text-align: center;
+   text-transform: uppercase;
+   letter-spacing: 4px;
 }
