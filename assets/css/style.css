@@ -620,3 +620,13 @@ body{
     max-height:0;
     transition: all 0.3s ease;   
 }
+
+.phrase-card:hover{
+    height: 320px;
+}
+
+.phrase-card:hover .phrase-info{
+    transition: all 0.3s ease;
+   opacity: 1;
+   max-height:40px;
+}
