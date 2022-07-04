@@ -512,3 +512,9 @@ body{
     background-color: #1786eb;
     border: 2px solid #333333;
 }
+
+.planet-info-container .planet-box img{
+    height: 50px;
+    width: 50px;
+}
+
