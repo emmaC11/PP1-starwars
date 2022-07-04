@@ -557,6 +557,20 @@ body{
     }
 }
 
+/* screen >= 1600px  */
+@media screen and (min-width:1600px) {
+    .planet-info-container .planet-box:nth-child(7){
+        grid-column: span 5;
+        grid-row: span 1;
+    } 
+
+    .planet-info-container .planet-box:nth-child(8){
+        grid-column: span 2;
+        grid-row: span 1;
+    } 
+    
+}
+
 
 
 
