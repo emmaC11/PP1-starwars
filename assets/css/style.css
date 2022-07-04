@@ -498,13 +498,15 @@ body{
     margin: 40px;
     grid-auto-flow: dense;
     grid-gap: 10px;
+    
 }
 
 .planet-info-container .planet-box{
     background-color: #333333;
-    border:  2px solid #1786eb;
+    /* border:  2px solid #1786eb; */
     padding: 30px;
     text-align: center;
+    border-radius: 5px;
     transition: 0.5s;
 }
 
@@ -516,5 +518,26 @@ body{
 .planet-info-container .planet-box img{
     height: 50px;
     width: 50px;
+    margin-bottom: 10px;
 }
+
+.planet-info-container .planet-box:nth-child(1){
+    /* targets first div and spans across by 2 */
+    grid-column: span 2;
+    grid-row: span 1;
+
+}
+.planet-info-container .planet-box:nth-child(4){
+    grid-column: span 1;
+    grid-row: span 2;
+}
+
+.planet-info-container .planet-box:nth-child(7){
+    grid-column: span 2;
+    grid-row: span 1;
+}  
+
+
+
+
 
