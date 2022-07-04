@@ -488,7 +488,7 @@ body{
 
  /* PLANET INFO CONTAINER CARDS */
 .planet-info-container{
-    margin-top: 60px;
+    padding-top: 100px;
     position: relative;
     max-width: 100%;
     display: grid;
@@ -498,4 +498,17 @@ body{
     margin: 40px;
     grid-auto-flow: dense;
     grid-gap: 10px;
+}
+
+.planet-info-container .planet-box{
+    background-color: #333333;
+    border:  2px solid #1786eb;
+    padding: 30px;
+    text-align: center;
+    transition: 0.5s;
+}
+
+.planet-info-container .planet-box:hover{
+    background-color: #1786eb;
+    border: 2px solid #333333;
 }
