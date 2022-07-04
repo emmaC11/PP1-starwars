@@ -573,6 +573,17 @@ body{
     
 }
 
+/* PHRASES SECTION */
+.phrases-container{
+    width: 100%;
+    padding-top: 60px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
 
 
 
