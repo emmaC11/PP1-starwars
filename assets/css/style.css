@@ -512,13 +512,17 @@ body{
 
 .planet-info-container .planet-box:hover{
     background-color: #1786eb;
-    border: 2px solid #333333;
 }
 
 .planet-info-container .planet-box img{
     height: 50px;
     width: 50px;
     margin-bottom: 10px;
+}
+
+.planet-info-container .planet-box h1{
+    margin-bottom: 10px;
+    font-family: 'Righteous', cursive;  
 }
 
 .planet-info-container .planet-box:nth-child(1){
@@ -535,7 +539,7 @@ body{
 .planet-info-container .planet-box:nth-child(7){
     grid-column: span 2;
     grid-row: span 1;
-}  
+} 
 
 
 @media (max-width:991px)
