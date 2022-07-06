@@ -29,3 +29,12 @@ Users of this website will be able to view all the Star Wars movies in chronolog
 <li><strong>insert ss of character section</strong></li>
 <br>
 
+<h2><strong>Testing</strong></h2>
+<li>this is the testing section</li>
+<br>
+
+<h2><strong>Bugs</strong></h2>
+<li>this is the bugs section</li>
+<br>
+
+
