@@ -15,7 +15,17 @@ Users of this website will be able to view all the Star Wars movies in chronolog
 <li><strong>insert ss of nav</strong></li>
 <br>
 <strong>The Movie Section</strong>
-<li>The movie section gives us details about each Star Wars move, the title, the year it was released and the director</li>
+<li>The movie section gives the user details about each Star Wars move, the title, the year it was released and the director</li>
 <li>The movies are displayed in chronological order, to follow the story & provide links to a streaming service to watch the movie</li>
 <li><strong>insert ss of movie section</strong></li>
+<br>
+<strong>The Galaxy Section</strong>
+<li>The galaxy section gives the user details about each planet in the Star Wars galaxy, an icon based on the design of is planet is there and and some information about the planet</li>
+<li>This section shows some phrases that are used in the Star Wars galaxy and provides a description of each phrase</li>
+<li><strong>insert ss of galaxy section</strong></li>
+<br>
+<strong>The Characters Section</strong>
+<li>The characters section has a slideshow of each character with a cartoon image. When the user hovers on a character image, a brief description of the character is displayed</li>
+<li><strong>insert ss of character section</strong></li>
+<br>
 
