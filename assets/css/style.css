@@ -578,9 +578,15 @@ body{
 }
 
 /* PHRASES SECTION */
+#phrases h1 {
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Righteous', cursive; 
+    font-size: xx-large;
+}
 .phrases-container{
     width: 100%;
-    padding-top: 60px;
+    padding-top: 25px;
     margin: 0 auto;
     display: flex;
     justify-content: center;
