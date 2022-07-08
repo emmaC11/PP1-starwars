@@ -63,6 +63,21 @@ body{
     color:#1786eb; 
 }
 
+@media only screen and (max-width: 720px) {
+    #menu {
+      background-color: lightblue;
+    }
+    #logo-image{
+        display: block;
+    margin-top: 0;
+    margin-left: 0;
+    margin: 0;       
+    }
+    #lightsaber{
+        margin: 0;
+    }
+  }
+
 /* MOVIE GRID SECTION */
 #grid-container-1,#grid-container-2,#grid-container-3,#grid-container-4{
     width: 100%;
