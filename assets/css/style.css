@@ -89,12 +89,12 @@ body{
     flex-wrap: wrap;
 }
 
-#main-content h1{
+/* #main-content h1{
     padding-top: 30px;
     font-family: 'Righteous', cursive; 
     font-size: xx-large;
     margin: 0 auto;
-}
+} */
 
 .grid-container{
     width: 100%;
