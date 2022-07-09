@@ -84,6 +84,11 @@ body{
   }
 
 /* MOVIE GRID SECTION */
+#main-content{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 #grid-container-1,#grid-container-2,#grid-container-3,#grid-container-4{
     width: 100%;
     height: auto;
