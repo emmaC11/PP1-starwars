@@ -288,6 +288,16 @@ body{
     position: absolute;
 } 
 
+.grid-container .movie h1{
+    color: white;
+    z-index: 1;
+    font-family: 'Righteous', cursive;
+}
+
+.grid-container .movie h3{
+    z-index: 1;
+}
+
 #grid-container-4 .row-3{
     background: #000 url(../images/force-awakens.jpg);
     background-size: cover;
