@@ -28,10 +28,19 @@ Users of this website will be able to view all the Star Wars movies in chronolog
 * The characters section has a slideshow of each character with a cartoon image. When the user hovers on a character image, a brief description of the character is displayed
 * insert ss of character section
 
+## Technologies used
+* this is the technologies used section
+
 ## Testing
 * this is the testing section
 
 ## Bugs
 * this is the bugs section
+
+## User Stories
+* this is the user stories section
+
+## Design
+* this is the design section
 
 
