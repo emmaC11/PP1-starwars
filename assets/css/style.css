@@ -118,20 +118,8 @@ body{
      justify-content: center;
      align-items: center;
 }
-#grid-container-1 .row-1,.row-2,.row-3{
-    transition: all 0.2s ease;
-}
-#grid-container-2 .row-1,.row-2,.row-3{
-    transition: all 0.2s ease;
-}
 
-#grid-container-3 .row-1,.row-2,.row-3{
-    transition: all 0.2s ease;
-}
 
-#grid-container-4 .row-1,.row-2,.row-3{
-    transition: all 0.2s ease;
-}
 
 #grid-container-1 .row-1:hover,.row-2:hover,.row-3:hover{
     transform: scale(0.9);   
