@@ -140,21 +140,15 @@ body{
      overflow: hidden;
 }
 
-#grid-container-1 .row-3{
+.grid-container .movie-3{
     background: #000 url(../images/revenge-of-the-sith.jpg);
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
      overflow: hidden;
-     color: #fff;
-     position: relative;
-     display: flex;
-     flex-direction: column;
-     justify-content: center;
-     align-items: center;
 }
 
-#grid-container-2 .row-1{
+.grid-container .movie-4{
     background: #000 url(../images/rogue-one.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -168,7 +162,7 @@ body{
     align-items: center;
 }
 
-#grid-container-2 .row-2{
+.grid-container .movie-5{
     background: #000 url(../images/solo-story.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -182,7 +176,7 @@ body{
     align-items: center;
 }
 
-#grid-container-2 .row-3{
+.grid-container .movie-6{
     background: #000 url(../images/new-hope.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -196,7 +190,7 @@ body{
     align-items: center;
 }
 
-#grid-container-3 .row-1{
+.grid-container .movie-7{
     background: #000 url(../images/empire-strikes-back.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -211,7 +205,7 @@ body{
     align-items: center;
 }
 
-#grid-container-3 .row-2{
+.grid-container .movie-8{
     background: #000 url(../images/return-of-the-jedi.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -226,7 +220,7 @@ body{
     align-items: center;
 }
 
-#grid-container-3 .row-3{
+.grid-container .movie-9{
     background: #000 url(../images/force-awakens.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -241,7 +235,7 @@ body{
     align-items: center;
 }
 
-#grid-container-4 .row-1{
+.grid-container .movie-10{
     background: #000 url(../images/last-jedi.jpg);
     /* background-repeat: no-repeat;
     background-size: cover;
@@ -258,7 +252,7 @@ body{
     align-items: center;
 }
 
-#grid-container-4 .row-2{
+.grid-container .movie-11{
     background: #000 url(../images/force-awakens.jpg);
     background-size: cover;
     background-repeat: no-repeat;
