@@ -119,7 +119,9 @@ body{
      align-items: center;
 }
 
-
+.grid-container .movie:hover{
+    transform: scale(0.9); 
+}
 
 #grid-container-1 .row-1:hover,.row-2:hover,.row-3:hover{
     transform: scale(0.9);   
