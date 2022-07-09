@@ -132,18 +132,12 @@ body{
      overflow: hidden;
    
 }
-#grid-container-1 .row-2{
+.grid-container .movie-2{
     background: #000 url(../images/attack-of-the-clones.jpg);
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
      overflow: hidden;
-     color: #fff;
-     position: relative;
-     display: flex;
-     flex-direction: column;
-     justify-content: center;
-     align-items: center;
 }
 
 #grid-container-1 .row-3{
