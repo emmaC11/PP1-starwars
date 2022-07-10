@@ -581,3 +581,9 @@ body{
     background-color: transparent;
     border:  1px solid #1786eb;
 }
+
+/* image overlay hover effects */
+#char-1{
+    position: relative; 
+    overflow: hidden;
+}
