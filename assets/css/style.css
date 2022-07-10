@@ -521,8 +521,9 @@ body{
 }
 
 @media only screen and (max-width: 430px){
-    .phrase-card{
-        background-color: #1786eb;
+    
+    .phrase-card:hover{
+        height: 370px;
     }
 }
 
