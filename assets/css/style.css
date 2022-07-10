@@ -611,16 +611,20 @@ body{
   padding-left: 10px;
   padding-right: 10px;
   width: 100%;
-  top: 50%;
-  left: 50%;
+  height: 80%;
+  
+  /* to center text */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
   opacity: 0;
   transition: all 0.3s ease-in-out 0s;
 
 }
 
-.character-info:hover .content{
-    top: 50%;
-    left: 50%;
+.character-info:hover{
     opacity: 1;
     color: white;
 }
