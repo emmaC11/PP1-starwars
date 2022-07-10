@@ -521,11 +521,15 @@ body{
 }
 
 /* CHARACTER SECTION */
+#characters{
+    display: flex;
+    flex-wrap: wrap;
+}
 .character-slider{
     padding-top: 50px;
     width: 300px;
     overflow: hidden;
-    margin: 0 auto;
+    /* margin: 0 auto; */
 }
 
 .character-slides{
