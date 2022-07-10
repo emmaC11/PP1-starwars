@@ -522,6 +522,7 @@ body{
 
 /* CHARACTER SECTION */
 .character-slider{
+    padding-top: 50px;
     width: 300px;
     overflow: hidden;
     margin: 0 auto;
