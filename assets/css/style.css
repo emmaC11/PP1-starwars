@@ -520,6 +520,13 @@ body{
    max-height:80px;
 }
 
+@media only screen and (max-width: 430px){
+    .phrase-card{
+        background-color: #1786eb;
+    }
+}
+
+
 /* CHARACTER SECTION */
 #characters{
     /* adding this removes extra scrollbar appearing at end of page due to width */
