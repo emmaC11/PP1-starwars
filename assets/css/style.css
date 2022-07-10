@@ -634,3 +634,7 @@ body{
     opacity: 1;
     color: white;
 }
+
+#char-1 .content{
+    margin: 10px 30px 15px 30px;
+}
