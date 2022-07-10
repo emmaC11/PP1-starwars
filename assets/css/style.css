@@ -567,27 +567,6 @@ body{
     /* position: absolute; */
 }
 
-.character-slider a{
-    display: inline-flex;
-    width: 1.5rem;
-    height: 1.5rem;
-    background: #1786eb;
-    color: white;
-    text-decoration: none;
-
-    /* centers numbers */
-    align-items: center;
-    justify-content: center;
-
-    border-radius: 50%;
-    margin: 0 5px 15px 0;
-}
-
-.character-slider a:active{
-    background-color: transparent;
-    border:  1px solid #1786eb;
-}
-
 /* image overlay hover effects */
 #character{
     position: relative; 
