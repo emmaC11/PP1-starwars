@@ -618,3 +618,15 @@ body{
 #character .content{
     margin: 10px 30px 15px 30px;
 }
+
+.character-slides::-webkit-scrollbar{
+    width: 20px;
+    height: 15px;
+    border: 1px solid #1786eb;
+    border-radius: 15px;
+}
+
+.character-slides::-webkit-scrollbar-thumb{
+    background: #1786eb;
+    border-radius: 15px;
+} 
