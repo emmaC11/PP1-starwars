@@ -520,10 +520,22 @@ body{
    max-height:80px;
 }
 
-@media only screen and (max-width: 430px){
-    
+@media only screen and (max-width: 500px){
+
+    .phrase-card{
+        /* align content to top of container */
+        justify-content:flex-start;  
+        align-items:flex-start;
+        height: 350px;  
+    }
+
+    .phrase-card .phrase-info{
+        opacity: 1;     
+    }
+
     .phrase-card:hover{
-        height: 370px;
+        /* match height of card so no transitions are triggered */
+        height: 350px;
     }
 }
 
