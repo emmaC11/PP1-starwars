@@ -527,8 +527,16 @@ body{
     flex-wrap: wrap;
 }
 
-.character-slider{
+#characters h1{
     padding-top: 50px;
+    text-align: center;
+    font-family: 'Righteous', cursive; 
+    font-size: xx-large;
+    margin: 0 auto;
+}
+
+.character-slider{
+    padding-top: 25px;
     width: 100%;
     margin: 20px;
     margin-bottom: 50px;
