@@ -507,17 +507,17 @@ body{
     margin-top: 20px;
     opacity: 0;
     max-height:0;
-    transition: all 0.3s ease;   
+    transition: all 0.9s ease;   
 }
 
 .phrase-card:hover{
-    height: 360px;
+    height: 320px;
 }
 
 .phrase-card:hover .phrase-info{
-    transition: all 0.3s ease;
+    transition: all 0.5s ease;
    opacity: 1;
-   max-height:40px;
+   max-height:80px;
 }
 
 /* CHARACTER SECTION */
