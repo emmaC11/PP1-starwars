@@ -560,7 +560,7 @@ body{
     align-items: center;
 }
 
-#character img, #char-2 img, #char-3 img, #char-4 img, #char-5 img{
+#character img{
     width: 90%;
     height: 90%;
     border-radius: 5px;
