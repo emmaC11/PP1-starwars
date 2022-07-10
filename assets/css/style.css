@@ -524,12 +524,14 @@ body{
 #characters{
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
 }
+
 .character-slider{
     padding-top: 50px;
-    width: 300px;
-    overflow: hidden;
-    /* margin: 0 auto; */
+    width: 80%;
+    overflow: hidden;  
 }
 
 .character-slides{
