@@ -558,7 +558,7 @@ body{
     width: 90%;
     height: 90%;
     border-radius: 5px;
-    position: absolute;
+    /* position: absolute; */
 }
 
 .character-slider a{
@@ -599,4 +599,8 @@ body{
     right: 0;
     opacity: 0;
     transition: all 0.4s ease-in-out 0s;
+}
+
+#char-1:hover .character-info-overlay{
+    opacity: 1;
 }
