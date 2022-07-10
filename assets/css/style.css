@@ -546,10 +546,15 @@ body{
     /* margin seperates each div on right side */
     margin-right: 50px;
     border-radius: 10px;
+    position: relative;
 
     display: flex;
     justify-content: center;
     align-items: center;
-    
-    
+}
+
+#char-1 img, #char-2 img, #char-3 img, #char-4 img, #char-5 img{
+    width: 90%;
+    height: 90%;
+    position: absolute;
 }
