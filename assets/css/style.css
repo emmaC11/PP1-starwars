@@ -521,3 +521,7 @@ body{
 }
 
 /* CHARACTER SECTION */
+.character-slider{
+    width: 300px;
+    overflow: hidden;
+}
