@@ -60,6 +60,9 @@ testing with the W3C Markup Validator and no errors or warning were identified i
 ![image](https://user-images.githubusercontent.com/83119583/178250682-ff5a49b3-6ad5-4122-9fc8-eeb1071273fe.png)
 
 
+## Responsive Testing
+* The website was tested on several devices and screen sizes to ensure it was responsvie regardless of the screen size. It has been tested on desktop, Ipad Mini, Ipad Air, Iphone 5, Samsung Galaxy S8+, Iphone X, Iphone SE. Mobile devices have been tested in portrait and landscape mode. The site has been tested in chrome & edge browsers.
+
 ## Technologies used
 * this is the technologies used section
 
