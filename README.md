@@ -65,7 +65,12 @@ testing with the W3C Markup Validator and no errors or warning were identified i
 
 ## Lighthouse Testing
 * The Lighthouse tool in Chrome DevTools is used to test a websites performance & accessibility. It is an open-source automated tool sued to improve the quality of webpages. 
-When I tested my website, an audit report was returned indicating that my website has high performance and is accessible
+When I tested my website, an audit report was returned indicating that my website has high performance and is accessible.
+
+## Links Testing
+* All links in the navigation bar are working correctly, they scroll down to each section on the page.
+* All links in the movie section are working correctly, when clicked the user is directed to a new tab where they can stream the film
+* The social media icons are working correctly, when clicked the user is directed to a new tab of that social media platform  
 
 ## Technologies used
 * this is the technologies used section
