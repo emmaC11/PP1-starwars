@@ -72,6 +72,12 @@ When I tested my website, an audit report was returned indicating that my websit
 * All links in the movie section are working correctly, when clicked the user is directed to a new tab where they can stream the film
 * The social media icons are working correctly, when clicked the user is directed to a new tab of that social media platform  
 
+## Manual Testing
+| Feature                 | Expect                                                 | Action             | Result            |
+| -------------           | -------------                                          | ------------------ | -------           |
+| Galaxy Navbar Button    | When clicked the page scrolls to the 'galaxy' section  | Clicked 'Galaxy' button on navbar      | Page scrolled to 'galaxy' section             |
+| Movie Grid Link         | When a movie block is clicked, a streaming service to watch the movie clicked is opened in another tab | Clicked 'Solo Story' movie block  | The link opened in a new tab on the correct site |
+
 ## Technologies used
 * this is the technologies used section
 
