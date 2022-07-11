@@ -565,11 +565,9 @@ body{
 
 .character-slides{
     /* adding horizontal scrollbar for images */
-    /* cannot see all items as width is set to 300 */
     display: flex;
     /* horizontal overflow:  */
     overflow-x: auto;
-    scroll-snap-type: mandatory;
     scroll-behavior: smooth;
 }
 
