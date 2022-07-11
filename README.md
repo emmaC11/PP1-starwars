@@ -129,10 +129,10 @@ When I tested my website, an audit report was returned indicating that my websit
 * [Image Scroller](https://css-tricks.com/css-only-carousel/) referenced when creating the image scroll for the characters section.
 
 
-## User Stories
+## UI/UX Design
 * this is the user stories section
 
-## Design
+## Deployment
 * this is the design section
 
 
