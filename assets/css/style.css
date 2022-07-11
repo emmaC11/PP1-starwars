@@ -589,7 +589,7 @@ body{
     align-items: center;
 }
 
-#character img{
+.character img{
     width: 90%;
     height: 90%;
     border-radius: 5px;
@@ -597,12 +597,12 @@ body{
 }
 
 /* image overlay hover effects */
-#character{
+.character{
     position: relative; 
     overflow: hidden;
 }
 
-#character .character-info-overlay{
+.character .character-info-overlay{
     background: rgba(0,0,0,0.7);
     position: absolute;
     height: 99%;
@@ -615,7 +615,7 @@ body{
     transition: all 0.4s ease-in-out 0s;
 }
 
-#character:hover .character-info-overlay{
+.character:hover .character-info-overlay{
     opacity: 1;
 }
 
@@ -643,7 +643,7 @@ body{
     color: white;
 }
 
-#character .content{
+.character .content{
     margin: 10px 30px 15px 30px;
 }
 
