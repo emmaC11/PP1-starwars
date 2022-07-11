@@ -89,8 +89,16 @@ When I tested my website, an audit report was returned indicating that my websit
 * When reducing the screen size, the navbar elements would stack on top of eachother underneath the logo. To fix this error I added a media query when the screen size is equal to or less than 720px. When the screen is this size, I add a display:none property to the logo for more spacing. I also reduce the margin and padding to make the elements align beside eachother neatly.
 * When reducing the screen size, the content inside the phrase cards was overflowing outside the container. To fix this bug, I added a media query when the screen size is equal to or less than 500px. In this query, I changed to opacity to 1 so the content is displayed and the hover effects are redundant.
 
-## Technologies used
-* this is the technologies used section
+## Technologies Used
+* [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+* [Google Fonts](https://fonts.google.com/)
+* [Github](https://github.com/emmaC11/PP1-starwars)
+* [GitPod](https://gitpod.io/)
+* [Font Awesome](https://fontawesome.com/)
+* [Flaticon](https://www.flaticon.com/free-icons/star-wars)
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+* [W3C HTML Validator](https://validator.w3.org/#validate_by_input)
 
 ## User Stories
 * this is the user stories section
