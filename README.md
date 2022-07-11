@@ -77,6 +77,11 @@ When I tested my website, an audit report was returned indicating that my websit
 | -------------           | -------------                                          | ------------------ | -------           |
 | Galaxy Navbar Button    | When clicked the page scrolls to the 'galaxy' section  | Clicked 'Galaxy' button on navbar      | Page scrolled to 'galaxy' section             |
 | Movie Grid Link         | When a movie block is clicked, a streaming service to watch the movie clicked is opened in another tab | Clicked 'Solo Story' movie block  | The link opened in a new tab on the correct site |
+| Phrase Hover Effects    | When a phrase is hovered on, information about the phrase is displayed  | Used mouse to hover on 'lightsaber' phrase      | Lightsaber information displayed on hover            |
+| Movie Hover Effects    | When a movie is hovered on, the box should zoom in  | Used mouse to hover on 'Attack Of The Clones' movie block      | Box zoomed in            |
+| Responsive Navbar    | When the screen size is reduced, the logo should not be visible and the nav elements should be aligned beside eachother | Used ChromeDev Tools to reduce page size to 320px      | Logo was not visible, nav elements and navbar was responsive            |
+| Character Hover Effects    | When a character is hovered on, information about the character is displayed  | Used mouse to hover on 'R2D2 character' card      | R2D2 character information displayed on hover hover            |
+| Character Scrollbar    | When dragged the character section scrolls diagonally to display more characters  | Used mouse to drag the scrollbar phrase      | Character section scrolls diagonally & displayed more characters            |
 
 ## Technologies used
 * this is the technologies used section
