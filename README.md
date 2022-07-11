@@ -100,6 +100,31 @@ When I tested my website, an audit report was returned indicating that my websit
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
 * [W3C HTML Validator](https://validator.w3.org/#validate_by_input)
 
+# **Credits/References**
+## Content & Media
+* I took inspiration from this [Star Wars Kids](https://www.starwarskids.com/) website. All of the images & content from the character section is from this section.
+* All of the images & content for the movie section is from [Disney Plus](https://www.disneyplus.com/en-gb/home)
+* I used a generic starry night image from twitter for the background.
+* The content for the planet section & the phrases section was taken from [Star Wars Fandom](https://starwars.fandom.com/wiki/Main_Page) & [Star Wars](https://www.starwars.com/)
+
+## Code
+* [CSS Tricks](https://css-tricks.com/) helped me add some advanced styling to my website.
+* [W3Schools](https://www.w3schools.com/) was referenced throughout my project for different tags & syntax.
+* [Youtube](https://www.youtube.com/) was a great source for video tutorials & explanations.
+* [Love Running](https://github.com/emmaC11/CI-loverunning-project) was referenced throughout development.
+* [MDN Web Docs](https://developer.mozilla.org/en-US/) was referenced for some css attributes.
+* [Code Pen](https://codepen.io/) helped me see some sample code and how it worked.
+* [Navbar with Logo](https://www.youtube.com/watch?v=x2hdO15luS0) referenced when trying to position logo on navigation bar.
+* [Colour Overlay](https://codepen.io/ieatwebsites/pen/wpJmXo) helped me create the blue overlay in the movie section.
+* [Media Queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) referenced when creating media queries.
+* [Hover Cards](https://codepen.io/rafaelavlucas/pen/rQWJYG) referenced when creating phrase cards.
+* [Masonry Grid](https://www.youtube.com/watch?v=icnZSJbNsEM) referenced when creating the planets section.
+* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) helpful reference when working with flexbox.
+* [Text Overlay](https://codepen.io/ArnaudBalland/pen/vGZKLr) referenced when adding the text overlay to the character section.
+* [Scrollbar Styling](https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp) referenced when styling the scollbar in the characters section.
+* [Image Scroller](https://css-tricks.com/css-only-carousel/) referenced when creating the image scroll for the characters section.
+
+
 ## User Stories
 * this is the user stories section
 
