@@ -63,6 +63,10 @@ testing with the W3C Markup Validator and no errors or warning were identified i
 ## Responsive Testing
 * The website was tested on several devices and screen sizes to ensure it was responsvie regardless of the screen size. It has been tested on desktop, Ipad Mini, Ipad Air, Iphone 5, Samsung Galaxy S8+, Iphone X, Iphone SE. Mobile devices have been tested in portrait and landscape mode. The site has been tested in chrome & edge browsers.
 
+## Lighthouse Testing
+* The Lighthouse tool in Chrome DevTools is used to test a websites performance & accessibility. It is an open-source automated tool sued to improve the quality of webpages. 
+When I tested my website, an audit report was returned indicating that my website has high performance and is accessible
+
 ## Technologies used
 * this is the technologies used section
 
