@@ -662,6 +662,7 @@ body{
 footer{
     height: 100px;
     background-color: #333333;
+    margin-top: 50px;
 }
 
 .social-links{
