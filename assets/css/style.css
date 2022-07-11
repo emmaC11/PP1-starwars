@@ -658,3 +658,8 @@ body{
     background: #1786eb;
     border-radius: 15px;
 } 
+
+footer{
+    height: 100px;
+    background-color: #333333;
+}
