@@ -40,6 +40,14 @@ Users of this website will be able to view all the Star Wars movies in chronolog
 
 ![image](https://user-images.githubusercontent.com/83119583/178247038-66cdf9d6-a2b1-49a6-b4a9-10c88a664d02.png)
 
+## The Footer
+* The footer section includes links to the relevant social media sites for Star Wars. The links will open a new tab to allow easy navigation for the user.
+* The footer encourages users to keep up to date and connected via social media
+
+![image](https://user-images.githubusercontent.com/83119583/178248935-4544482c-1534-47c6-ac10-2f2bd27d97bd.png)
+
+
+
 ## Technologies used
 * this is the technologies used section
 
