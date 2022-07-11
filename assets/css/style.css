@@ -663,3 +663,16 @@ footer{
     height: 100px;
     background-color: #333333;
 }
+
+.social-links{
+    text-align: center;
+    display: flex;
+    
+}
+.social-links > li{
+   margin-right: 50px;
+   padding-top: 40px;
+   list-style-type: none;
+   margin: 0 auto;
+  
+}
