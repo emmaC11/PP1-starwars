@@ -48,11 +48,20 @@ Users of this website will be able to view all the Star Wars movies in chronolog
 
 
 
+# **Testing**
+## Validator Testing
+* To verify that the HTML code written to the best standard, I conducted validator
+testing with the W3C Markup Validator and no errors or warning were identified in the HTML code.
+
+![image](https://user-images.githubusercontent.com/83119583/178250184-a5b736d1-7aee-488a-973a-e85f46fd0659.png)
+
+* CSS styling was validated using the W3C CSS Validation Service to ensure the code was written to the expected standard. No errors were found when passing through the W3C CSS validator.
+
+![image](https://user-images.githubusercontent.com/83119583/178250682-ff5a49b3-6ad5-4122-9fc8-eeb1071273fe.png)
+
+
 ## Technologies used
 * this is the technologies used section
-
-## Testing
-* this is the testing section
 
 ## Bugs
 * this is the bugs section
