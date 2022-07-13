@@ -680,10 +680,27 @@ body{
     margin: 5px 0 20px 0;
     border: 1px solid #1786eb;
     border-radius: 2px;
+    transition: 0.5s;
 }
 
 .text-input:hover{
     border-color: #EEDB00;
+}
+
+.subscribe-button{
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: transparent;
+    border: 2px solid #1786eb;
+    color: white;
+    transition: 0.5s;
+}
+
+.subscribe-button:hover{
+    background-color: #1786eb;
 }
 
 footer{
