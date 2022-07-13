@@ -657,6 +657,13 @@ body{
     border-radius: 15px;
 } 
 
+/* SIGN UP FORM */
+#form{
+    margin-top: 50px;
+}
+
+
+
 footer{
     height: 100px;
     background-color: #333333;
