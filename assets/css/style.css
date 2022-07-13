@@ -682,6 +682,10 @@ body{
     border-radius: 2px;
 }
 
+.text-input:hover{
+    border-color: #EEDB00;
+}
+
 footer{
     height: 100px;
     background-color: #333333;
