@@ -672,6 +672,15 @@ body{
     padding: 30px;
 }
 
+.text-input {
+    background: transparent;
+    color: #EEDB00 ;
+    width: 30%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #1786eb;
+    border-radius: 2px;
+}
 
 footer{
     height: 100px;
