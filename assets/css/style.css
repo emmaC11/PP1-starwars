@@ -748,3 +748,11 @@ footer{
     color: #EEDB00;
     padding: 25px;
 }
+
+#form-complete button{
+    border-radius: 5px;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #EEDB00;  
+}
