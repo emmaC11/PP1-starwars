@@ -760,3 +760,10 @@ footer{
 #form-complete button a{
     text-decoration: none;
 }
+
+@media only screen and (max-width: 640px )
+{
+    #form-complete h2{
+        font-size: 40px;
+    }
+}
