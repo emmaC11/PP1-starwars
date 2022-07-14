@@ -742,3 +742,9 @@ footer{
     justify-content: center;
     flex-direction: column;  
 }
+
+#form-complete h2{
+    font-size: xx-large;
+    color: #EEDB00;
+    padding: 25px;
+}
