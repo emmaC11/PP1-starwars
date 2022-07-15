@@ -749,7 +749,7 @@ footer{
     flex-direction: column;  
 }
 
-#form-complete h2{
+#form-complete h1{
     font-size: 50px;
     color: #EEDB00;
     padding: 25px;
@@ -760,7 +760,7 @@ footer{
     padding: 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #EEDB00;  
+    background-color: #EEDB00; 
 }
 
 #form-complete button a{
@@ -769,7 +769,7 @@ footer{
 
 @media only screen and (max-width: 640px )
 {
-    #form-complete h2{
+    #form-complete h1{
         font-size: 40px;
     }
 }
