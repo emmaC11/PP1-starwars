@@ -57,7 +57,7 @@ body{
     display: block;
     padding: 4rem 1.5rem;
     text-decoration: none;
-    color: #ffffff;  
+    color: #fff;  
     transition: all 0.2s ease;
 }
 
@@ -91,13 +91,6 @@ body{
     flex-wrap: wrap;
 }
 
-/* #main-content h1{
-    padding-top: 30px;
-    font-family: 'Righteous', cursive; 
-    font-size: xx-large;
-    margin: 0 auto;
-} */
-
 .grid-container{
     width: 100%;
     height: auto;
@@ -116,20 +109,17 @@ body{
     min-width: 200px;
     height: 300px;
     margin: 20px;
-    background-size: cover;
-     background-repeat: no-repeat;
-     background-position: center;
-     overflow: hidden;
-     color: #fff;
-     position: relative;
-     border-radius: 8px;
-   
-     display: flex;
-     flex-direction: column;
-     justify-content: center;
-     align-items: center;
+    
+    color: #fff;
+    position: relative;
+    border-radius: 8px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
      
-     text-decoration: none;
+    text-decoration: none;
 }
 
 .grid-container .movie:hover{
@@ -210,7 +200,6 @@ body{
     overflow: hidden;
     color: #fff;
     position: relative;
-    /* width: 100%; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -225,7 +214,6 @@ body{
     overflow: hidden;
     color: #fff;
     position: relative;
-    /* width: 100%; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -240,7 +228,6 @@ body{
     overflow: hidden;
     color: #fff;
     position: relative;
-    /* width: 100%; */
     display: flex;
     flex-direction: column;
     justify-content: center;
