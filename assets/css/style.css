@@ -656,37 +656,7 @@ left:-10000px;
     background-color: #1786eb;
 }
 
-@media only screen and (max-width: 500px )
-{
-    .text-input{
-        width: 40%;
-    }
-}
-
-footer{
-    height: 10rem;
-    background-color: #333333;
-    margin-top: 5rem;
-}
-
-.social-links{
-    text-align: center;
-    display: flex;
-    
-}
-.social-links > li{
-   margin-right: 5rem;
-   padding-top: 4rem;
-   list-style-type: none;
-   margin: 0 auto;
-  
-}
-
-.social-links i{
-    font-size: 2.7rem;
-    color: #1786eb;
-}
-
+/* PAGE DISPLAYED ON FORM SUBMIT */
 #form-complete{
     height: 500px;
     display: flex;
@@ -718,4 +688,35 @@ footer{
     #form-complete h1{
         font-size: 40px;
     }
+}
+
+@media only screen and (max-width: 500px )
+{
+    .text-input{
+        width: 40%;
+    }
+}
+
+footer{
+    height: 10rem;
+    background-color: #333333;
+    margin-top: 5rem;
+}
+
+.social-links{
+    text-align: center;
+    display: flex;
+    
+}
+.social-links > li{
+   margin-right: 5rem;
+   padding-top: 4rem;
+   list-style-type: none;
+   margin: 0 auto;
+  
+}
+
+.social-links i{
+    font-size: 2.7rem;
+    color: #1786eb;
 }
