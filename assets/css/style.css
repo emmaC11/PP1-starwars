@@ -548,11 +548,11 @@ body{
     flex-wrap: wrap;
 }
 
-#characters h1{
+#characters h2{
     padding-top: 50px;
     text-align: center;
     font-family: 'Righteous', cursive; 
-    font-size: xx-large;
+    font-size: 32px;
     margin: 0 auto;
 }
 
