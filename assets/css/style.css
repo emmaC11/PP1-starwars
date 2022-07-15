@@ -473,6 +473,10 @@ left:-10000px;
         opacity: 1;     
     }
 
+    .phrase-card h3{
+        margin-top: 5rem;
+    }
+
     .phrase-card:hover{
         /* match height of card so no transitions are triggered */
         height: 35rem;
