@@ -484,21 +484,22 @@ left:-10000px;
     /* adding this removes extra scrollbar appearing at end of page due to width */
     display: flex;
     flex-wrap: wrap;
+    font-size: 1.5rem;
 }
 
 #characters h2{
-    padding-top: 50px;
+    padding-top: 5rem;
     text-align: center;
     font-family: 'Righteous', cursive; 
-    font-size: 32px;
+    font-size: 3.2rem;
     margin: 0 auto;
 }
 
 .character-slider{
-    padding-top: 25px;
+    padding-top: 2.5rem;
     width: 100%;
-    margin: 20px;
-    margin-bottom: 50px;
+    margin: 2rem;
+    margin-bottom: 5rem;
     overflow: hidden;  
 }
 
@@ -513,12 +514,12 @@ left:-10000px;
 .character-slides > div {
     /* scroll-snap-align: start; */
     flex-shrink: 0;
-    width: 290px;
-    height: 300px;
+    width: 29rem;
+    height: 30rem;
     background: #333333;
     /* margin seperates each div on right side */
-    margin-right: 50px;
-    border-radius: 10px;
+    margin-right: 5rem;
+    border-radius: 1rem;
     position: relative;
 
     display: flex;
@@ -530,7 +531,6 @@ left:-10000px;
     width: 90%;
     height: 90%;
     border-radius: 5px;
-    /* position: absolute; */
 }
 
 /* image overlay hover effects */
@@ -559,8 +559,8 @@ left:-10000px;
 .character-info{
   position: absolute;
   text-align: center;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 1rem;
+  padding-right: 1rem;
   width: 100%;
   height: 80%;
   
@@ -576,7 +576,7 @@ left:-10000px;
 }
 
 .character-info h3{
-    font-size: 24px;
+    font-size: 2.4rem;
 }
 
 .character-info:hover{
@@ -585,19 +585,19 @@ left:-10000px;
 }
 
 .character .content{
-    margin: 10px 30px 15px 30px;
+    margin: 1rem 3rem 1.5rem 3rem;
 }
 
 .character-slides::-webkit-scrollbar{
-    width: 20px;
-    height: 15px;
+    width: 2rem;
+    height: 1.5rem;
     border: 1px solid #1786eb;
-    border-radius: 15px;
+    border-radius: 1.5rem;
 }
 
 .character-slides::-webkit-scrollbar-thumb{
     background: #1786eb;
-    border-radius: 15px;
+    border-radius: 1.5rem;
 } 
 
 /* SIGN UP FORM */
