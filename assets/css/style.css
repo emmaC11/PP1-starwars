@@ -129,26 +129,26 @@ body{
 
 .grid-container .movie-1{
     background: #000 url(../images/phantom-menace.jpg);
-     background-size: cover;
-     background-repeat: no-repeat;
-     background-position: center;
-     overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
    
 }
 .grid-container .movie-2{
     background: #000 url(../images/attack-of-the-clones.jpg);
-     background-size: cover;
-     background-repeat: no-repeat;
-     background-position: center;
-     overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
 }
 
 .grid-container .movie-3{
     background: #000 url(../images/revenge-of-the-sith.jpg);
-     background-size: cover;
-     background-repeat: no-repeat;
-     background-position: center;
-     overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
 }
 
 .grid-container .movie-4{
