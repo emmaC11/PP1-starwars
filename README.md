@@ -68,7 +68,7 @@ testing with the W3C Markup Validator and no errors or warning were identified i
 When I tested my website, an audit report was returned indicating that my website has high performance and is accessible.
 
 
-![image](https://user-images.githubusercontent.com/83119583/178286264-3cc2879a-1a6d-407e-9bed-e9dc876804bc.png)
+![image](https://user-images.githubusercontent.com/83119583/179273097-8d665435-be27-4959-9ae3-6681349e75e0.png)
 
 
 ## Links Testing
