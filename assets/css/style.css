@@ -404,7 +404,8 @@ left:-10000px;
 }
 
 .planet-info-container .planet-box:hover{
-    background-color: #1786eb;
+    background-color: #EEDB00;
+    color: black;
 }
 
 .planet-info-container .planet-box img{
@@ -521,6 +522,7 @@ left:-10000px;
 
 .phrase-card:hover{
     height: 320px;
+    border-color: #EEDB00;
 }
 
 .phrase-card:hover .phrase-info{
