@@ -308,11 +308,11 @@ body{
 }
 
 /* GALAXY PLANET SECTION */
-#galaxy h1 {
+#galaxy h2 {
     margin-top: 50px;
     text-align: center;
     font-family: 'Righteous', cursive; 
-    font-size: xx-large;
+    font-size: 32px;
 }
 
 .planet-container{
