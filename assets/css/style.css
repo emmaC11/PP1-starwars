@@ -638,6 +638,10 @@ body{
 
 }
 
+.character-info h3{
+    font-size: 24px;
+}
+
 .character-info:hover{
     opacity: 1;
     color: white;
