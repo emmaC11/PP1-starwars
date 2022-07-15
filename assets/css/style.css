@@ -603,11 +603,12 @@ left:-10000px;
 
 /* SIGN UP FORM */
 #form{
-    margin-top: 15px;
+    margin-top: 1.5rem;
+    font-size: 1.7rem;
 }
 
 #form h2{
-    padding-bottom: 30px;
+    padding-bottom: 3rem;
     text-align: center;
     font-family: 'Righteous', cursive; 
     font-size: xx-large;
@@ -621,14 +622,14 @@ left:-10000px;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 30px;
+    padding: 3rem;
 }
 
 .text-input {
     background: transparent;
     color: #EEDB00 ;
     width: 30%;
-    height: 25px;
+    height: 2.5rem;
     margin: 5px 0 20px 0;
     border: 1px solid #1786eb;
     border-radius: 2px;
@@ -640,9 +641,9 @@ left:-10000px;
 }
 
 .subscribe-button{
-    margin-top: 20px;
+    margin-top: 2rem;
     border-radius: 5px;
-    padding: 15px 32px;
+    padding: 1.5rem 3.2rem;
     text-align: center;
     font-size: 100%;
     background-color: transparent;
