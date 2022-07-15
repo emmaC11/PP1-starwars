@@ -396,14 +396,15 @@ left:-10000px;
 
 /* PHRASES SECTION */
 #phrases h2 {
-    padding-top: 50px;
+    padding-top: 5rem;
     text-align: center;
     font-family: 'Righteous', cursive; 
-    font-size: 32px;
+    font-size: 3.2rem;
 }
 .phrases-container{
     width: 100%;
-    padding-top: 25px;
+    font-size: 1.5rem;
+    padding-top: 2.5rem;
     margin: 0 auto;
     display: flex;
     justify-content: center;
@@ -413,14 +414,14 @@ left:-10000px;
 
 .phrase-card{
     width: 100%;
-    max-width: 350px;
-    min-width: 200px;
-    height: 300px;
-    margin: 20px;
+    max-width: 35rem;
+    min-width: 20rem;
+    height: 30rem;
+    margin: 2rem;
     border: 2px solid #1786eb;
     background-color: #333333;
-    border-radius: 15px;
-    padding: 10px;
+    border-radius: 1.5rem;
+    padding: 1rem;
     transition: all 0.3s ease;
     /* centers title on card */
     display: flex;  
@@ -442,21 +443,21 @@ left:-10000px;
     width: 80%;
     margin: 0 auto;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 2rem;
     opacity: 0;
     max-height:0;
     transition: all 0.9s ease;   
 }
 
 .phrase-card:hover{
-    height: 320px;
+    height: 32rem;
     border-color: #EEDB00;
 }
 
 .phrase-card:hover .phrase-info{
     transition: all 0.5s ease;
    opacity: 1;
-   max-height:80px;
+   max-height:8rem;
 }
 
 @media only screen and (max-width: 500px){
@@ -465,7 +466,7 @@ left:-10000px;
         /* align content to top of container */
         justify-content:flex-start;  
         align-items:flex-start;
-        height: 350px;  
+        height: 35rem;  
     }
 
     .phrase-card .phrase-info{
@@ -474,7 +475,7 @@ left:-10000px;
 
     .phrase-card:hover{
         /* match height of card so no transitions are triggered */
-        height: 350px;
+        height: 35rem;
     }
 }
 
