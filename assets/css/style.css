@@ -664,9 +664,9 @@ left:-10000px;
 }
 
 footer{
-    height: 100px;
+    height: 10rem;
     background-color: #333333;
-    margin-top: 50px;
+    margin-top: 5rem;
 }
 
 .social-links{
@@ -675,15 +675,15 @@ footer{
     
 }
 .social-links > li{
-   margin-right: 50px;
-   padding-top: 40px;
+   margin-right: 5rem;
+   padding-top: 4rem;
    list-style-type: none;
    margin: 0 auto;
   
 }
 
 .social-links i{
-    font-size: 190%;
+    font-size: 2.7rem;
     color: #1786eb;
 }
 
