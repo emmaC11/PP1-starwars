@@ -307,6 +307,11 @@ body{
     z-index: 1;
 }
 
+.sr-only{
+position:absolute;
+left:-10000px;
+}
+
 /* GALAXY PLANET SECTION */
 #galaxy h2 {
     margin-top: 50px;
