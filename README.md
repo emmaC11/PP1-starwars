@@ -40,7 +40,7 @@ The characters section information on the main characters in the galaxy. Each ch
 
 # Design
 ## Colour Scheme
-content
+The three main colours used throughout the website are blue (#1786eb), yellow (#EEDB00), and grey (#333333) as these colours are similar to the colour scheme in the franchise. Blue is used when ships jump to hyperspace, yellow is used in the Star Wars logo, and grey matches the dark theme seen throughout the film.
 
 ## Imagery
 
