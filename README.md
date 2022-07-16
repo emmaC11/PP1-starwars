@@ -203,3 +203,13 @@ I used the following commands throughout the development of this project:
 * **git add .** - This command adds all the changes that have been in the working directory to the staging area. Ready to be committed.
 * **git commit -m ""** - This command is used to write descriptive messages of what changes have been made to the code and commits the changes to the local repository.
 * **git push** - This command pushes all the committed changes to the Github repository.
+
+## Deployment to GitHub Pages
+* Navigate to [GitHub Repository](https://github.com/emmaC11/PP1-starwars)
+* Click the 'Settings' tab.
+* Scroll down to the 'pages' tab on the navigation bar.
+* Open the 'Pages' tab.
+* Select 'main' branch as the source.
+* Click 'save'.
+* Click the link provided to go to the deployed website.
+* The live link can be found here - [PP1-starwars](emmac11.github.io/pp1-starwars/).
