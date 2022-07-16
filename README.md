@@ -81,7 +81,7 @@ The characters section provides information about main characters in the galaxy.
 The three main colours used throughout the website are blue (#1786eb), yellow (#EEDB00), and grey (#333333) as these colours are similar to the colour scheme in the franchise. Blue is used when ships jump to hyperspace, yellow is used in the Star Wars logo, and grey matches the dark theme seen throughout the film.
 
 ## Typography
-The headers throughout the website are using the <strong>Righteous</strong> font and the main body text is using the <strong>Kanit</strong> font
+The headers throughout the website are using the <strong>Righteous</strong> font and the main body text is using the <strong>Kanit</strong> font.
 
 ## Imagery
 All images are related to the Star Wars Franchise and the website has a cartoon branding approach. The logo image is a lightsaber and a death star which represents the republic and the sith, the story arc of the film. The size & placement of the logo image varies on screen size. All planet images and character images are cartoons to capture visual interest of the user and keep a consistent theme. Images used in the movie section are poster images that were used for press when the movies were released. 
@@ -167,9 +167,9 @@ When I tested my website, an audit report was returned indicating that my websit
 
 ## Links Testing
 * All links in the navigation bar are working correctly, they scroll down to each section on the page.
-* All links in the movie section are working correctly, when clicked the user is directed to a new tab where they can stream the film
-* The social media icons are working correctly, when clicked the user is directed to a new tab of that social media platform 
-* The button to return to the website when a form is submitted is functional 
+* All links in the movie section are working correctly, when clicked the user is directed to a new tab where they can stream the film.
+* The social media icons are working correctly, when clicked the user is directed to a new tab of that social media platform.
+* The button to return to the website when a form is submitted is functional.
 
 ## Manual Testing
 | Feature                 | Expect                                                 | Action             | Result            |
@@ -188,7 +188,7 @@ When I tested my website, an audit report was returned indicating that my websit
 
 
 ## Bugs Identified During Testing
-* When reducing the screen size, the movie section was not responsive and the movie boxes would squash together instead of spacing and starting a new line. To fix this error, I refactored the html code and removed the unique classes each movie had and replaced with one global container with divs. I added flex properties to this container and added the flex-wrap property, which makes the divs inside the container responsive
+* When reducing the screen size, the movie section was not responsive and the movie boxes would squash together instead of spacing and starting a new line. To fix this error, I refactored the html code and removed the unique classes each movie had and replaced with one global container with divs. I added flex properties to this container and added the flex-wrap property, which makes the divs inside the container responsive.
 * When reducing the screen size, the navbar elements would stack on top of eachother underneath the logo. To fix this error, I added a media query when the screen size is equal to or less than 720px. When the screen is this size, I add a display:none property to the logo for more spacing. I also reduce the margin and padding to make the elements align beside eachother neatly.
 * When reducing the screen size, the content inside the phrase cards was overflowing outside the container. To fix this bug, I added a media query when the screen size is equal to or less than 500px. In this query, I changed to opacity to 1 so the content is displayed and the hover effects are redundant.
 * When viewing the website on a large monitor at work, the site was not responsive. To fix this bug, I updated the css measurements from pixels to rem, making the site more reliable and responsive regardless of screen size.
