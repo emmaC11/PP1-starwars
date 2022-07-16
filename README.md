@@ -194,6 +194,7 @@ When I tested my website, an audit report was returned indicating that my websit
 * When viewing the website on a large monitor at work, the site was not responsive. To fix this bug, I updated the css measurements from pixels to rem, making the site more reliable and responsive regardless of screen size.
 * When validating my html code, I used several h1 tags throughout the website - this is not best practise. I refactored my code to only have one h1 tag that is visible to screen-readers only to ensure my site is acessible to everyone.
 * When viewing the website in edge and interent explorer, the background image was not rendering. After some investigation, I discovered edge and interent explorer cannot render AVIF files. To fix this bug, I converted the AVIF background image to a JPG file.
+* When testing form-submit.html with the W3c HTML Validator, I had an error as I had an 'a' tag nested inside in a button. To fix this bug, I removed the button tags, updated the selector in the css file and removed the default text-underline styling.
 
 # Technologies Used
 * [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
