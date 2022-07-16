@@ -87,6 +87,12 @@ All images are related to the Star Wars Franchise and the website has a cartoon 
 
 ![image](https://user-images.githubusercontent.com/83119583/178247038-66cdf9d6-a2b1-49a6-b4a9-10c88a664d02.png)
 
+## Galaxy Club Form
+* The sign up form allows user to sign up to the Galaxy club which keeps them up-to date with the latest Star Wars news & events. When the form is submitted, the user is brought to a page where they have the option to return to the website. Form validation is implemented, the form cannot be submitted if the fields are left empty and if the user does not provide valid syntax for an email address.
+
+![image](https://user-images.githubusercontent.com/83119583/179349155-f092321d-7741-4ef4-be0b-70ecd3ed85bd.png)
+![image](https://user-images.githubusercontent.com/83119583/179349132-d0091bd5-74f5-476b-b195-231a0b408d62.png)
+
 ## The Footer
 * The footer section includes links to the relevant social media sites for Star Wars. The links will open a new tab to allow easy navigation for the user.
 * The footer encourages users to keep up to date and connected via social media
