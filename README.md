@@ -4,6 +4,27 @@ This Star Wars website is a landing page for people who are interested in learni
 
 Users of this website will be able to view all the Star Wars movies in chronological order, they can read about the different planets in the Star Wars galaxy, view different phrases that are referenced throughout the films, read about different characters. This site is targeted towards people who want to learn about the Star Wars galaxy.
 
+# **User Experience & Design**
+
+# User Stories
+## First Time Visitor Goals
+content content
+
+# Structure
+content content
+
+# Design
+## Colour Scheme
+content
+
+## Imagery
+
+## Wireframes
+
+# Limitations
+
+
+
 # **Features**
 
 
@@ -129,8 +150,6 @@ When I tested my website, an audit report was returned indicating that my websit
 * [Image Scroller](https://css-tricks.com/css-only-carousel/) referenced when creating the image scroll for the characters section.
 
 
-## UI/UX Design
-* this is the user stories section
 
 ## Deployment
 * this is the design section
