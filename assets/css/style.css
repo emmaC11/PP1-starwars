@@ -675,12 +675,13 @@ left:-10000px;
     padding: 2.5rem;
 }
 
-#form-complete button{
+#form-complete a{
     border-radius: 5px;
     padding: 1.5rem 3.2rem;
     text-align: center;
     font-size: 100%;
-    background-color: #EEDB00; 
+    background-color: #EEDB00;
+    text-decoration: none; 
 }
 
 #form-complete button a{
