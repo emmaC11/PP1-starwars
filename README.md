@@ -8,11 +8,23 @@ Users of this website will be able to view all the Star Wars movies in chronolog
 
 # User Stories
 ## First Time Visitor Goals
-content content
+* As a first time user, I want to understand the purpose of the site & learn more about the Star Wars Galaxy.
+* As a first time user, I want to navigate throughout the site to find different types of content.
+* As a first time user, I want to view the website on my Iphone 5.
+* As a first time user, I want to sign up to the Galaxy Club.
 
 # Structure
-content content
+This is a single page website, all information is positioned in a specific order, making it easier for users to navigate the website and consume the content in a precise order. There is a navigation bar at the top of the page that seamlessly scrolls/directes users to each section. This allows users to navigate the site easily.
+> As a first time user, I want to navigate throughout the site to find different types of content.
 
+The first section that the user sees is the movie section, which contains information about each Star Wars movie and displays the movies in the timeline they should be watched.
+>As a first time user, I want to understand the purpose of the site & learn more about the Star Wars Galaxy.
+
+CSS Media Queries are used to make the website responsive on different screen sizes. All sections are responsive and content styling changes based on the screen size the user is viewing the website with. This is to ensure that the content is readable and not squashed, all images are clear & visible.
+>As a first time user, I want to view the website on my Iphone 5.
+
+A section contains a form where users can sign up to the 'Galaxy Club' to stay up-to date with news and events. A user needs to provide their name & email address.
+>As a first time user, I want to sign up to the Galaxy Club.
 # Design
 ## Colour Scheme
 content
