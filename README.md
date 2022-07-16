@@ -167,7 +167,8 @@ When I tested my website, an audit report was returned indicating that my websit
 ## Links Testing
 * All links in the navigation bar are working correctly, they scroll down to each section on the page.
 * All links in the movie section are working correctly, when clicked the user is directed to a new tab where they can stream the film
-* The social media icons are working correctly, when clicked the user is directed to a new tab of that social media platform  
+* The social media icons are working correctly, when clicked the user is directed to a new tab of that social media platform 
+* The button to return to the website when a form is submitted is functional 
 
 ## Manual Testing
 | Feature                 | Expect                                                 | Action             | Result            |
@@ -179,6 +180,10 @@ When I tested my website, an audit report was returned indicating that my websit
 | Responsive Navbar    | When the screen size is reduced, the logo should not be visible and the nav elements should be aligned beside eachother | Used ChromeDev Tools to reduce page size to 320px      | Logo was not visible, nav elements and navbar was responsive            |
 | Character Hover Effects    | When a character is hovered on, information about the character is displayed  | Used mouse to hover on 'R2D2 character' card      | R2D2 character information displayed on hover hover            |
 | Character Scrollbar    | When dragged the character section scrolls diagonally to display more characters  | Used mouse to drag the scrollbar phrase      | Character section scrolls diagonally & displayed more characters            |
+| Form Submission   | When the submit button is clicked, the user is brought to a new page  | Typed 'emma' in the first name input field. Typed 'c' in the last name input field. Typed 'test@test' in the email field. Clicked the submit button     | Brought to a new page, form submitted successfully            |
+| Form Validation - email    | When an invalid email is entered, the form does not submit  | Typed 'emma' in the first name input field. Typed 'c' in the last name input field. Typed 'test' in the email field.      | Form did not submit, received pop up warning that email was invalid           |
+| Form Validation - empty fields  | When a field is left blank, the form does not submit   |  Typed 'c' in the last name input field. Typed 'test@test' in the email field.    | Form did not submit, received pop up warning that the field is required            |
+
 
 
 ## Bugs
