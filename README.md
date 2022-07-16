@@ -205,11 +205,14 @@ I used the following commands throughout the development of this project:
 * **git push** - This command pushes all the committed changes to the Github repository.
 
 ## Deployment to GitHub Pages
-* Navigate to [GitHub Repository](https://github.com/emmaC11/PP1-starwars)
-* Click the 'Settings' tab.
-* Scroll down to the 'pages' tab on the navigation bar.
-* Open the 'Pages' tab.
-* Select 'main' branch as the source.
-* Click 'save'.
-* Click the link provided to go to the deployed website.
-* The live link can be found here - [PP1-starwars](https://emmac11.github.io/PP1-starwars/).
+1. Navigate to [GitHub Repository](https://github.com/emmaC11/PP1-starwars)
+2. Click the 'Settings' tab.
+3. Scroll down to the 'pages' tab on the navigation bar.
+4. Open the 'Pages' tab.
+5. Select 'main' branch as the source.
+6. Click 'save'.
+7. Click the link provided to go to the deployed website.
+8. The live link can be found here - [PP1-starwars](https://emmac11.github.io/PP1-starwars/).
+
+## Run Locally
+
