@@ -43,6 +43,7 @@ The characters section information on the main characters in the galaxy. Each ch
 The three main colours used throughout the website are blue (#1786eb), yellow (#EEDB00), and grey (#333333) as these colours are similar to the colour scheme in the franchise. Blue is used when ships jump to hyperspace, yellow is used in the Star Wars logo, and grey matches the dark theme seen throughout the film.
 
 ## Imagery
+All images are related to the Star Wars Franchise and the website has a cartoon branding approach. The logo image is a lightsaber and a death star which represents the republic and the sith, the story arc of the film. The size & placement of the logo image varies on screen size. All planet images and character images are cartoons to capture visual interest of the user and keep a consistent theme. Images used in the movie section are poster images that were used for press when the movies were released. 
 
 ## Wireframes
 
