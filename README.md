@@ -4,6 +4,43 @@ This Star Wars website is a landing page for people who are interested in learni
 
 Users of this website will be able to view all the Star Wars movies in chronological order, they can read about the different planets in the Star Wars galaxy, view different phrases that are referenced throughout the films, read about different characters. This site is targeted towards people who want to learn about the Star Wars galaxy.
 
+# **Table Of Contents**
+* [User Experience & Design](#user-experience--design)
+    * [User Stories](#user-stories)
+        * [First Time Visitor Goals](#first-time-visitor-goals)
+        * [Structure](#structure)
+    * [Design](#design)
+        * [Colour Scheme](#colour-scheme)
+        * [Typography](#typography)
+        * [Imagery](#imagery)
+        * [Wireframes](#wireframes)
+* [Features](#features)
+    * [Navigation](#navigation)
+    * [Movie Section](#the-movie-section)
+    * [Galaxy Section](#the-galaxy-section)
+    * [Characters Section](#the-characters-section)
+    * [Galaxy Club Form](#galaxy-club-form)
+    * [Footer](#the-footer)
+
+* [Testing](#testing)
+    * [Validator Testing](#validator-testing)
+    * [Responsive Testing](#responsive-testing)
+    * [Lighthouse Testing](#lighthouse-testing)
+    * [Links Testing](#links-testing)
+    * [Manual Testing](#manual-testing)
+    * [Bugs](#bugs)
+
+* [Technologies Used](#technologies-used)
+* [Deployment](#deployment)
+    * [Project Creation](#project-creation)
+    * [GitHub Pages](#deployment-to-github-pages)
+    * [Run Locally](#run-locally)
+
+* [Credits/References](#creditsreferences)
+    * [Content & Media](#content--media)
+    * [Code](#code)
+
+
 # **User Experience & Design**
 
 # User Stories
@@ -143,8 +180,8 @@ When I tested my website, an audit report was returned indicating that my websit
 | Character Hover Effects    | When a character is hovered on, information about the character is displayed  | Used mouse to hover on 'R2D2 character' card      | R2D2 character information displayed on hover hover            |
 | Character Scrollbar    | When dragged the character section scrolls diagonally to display more characters  | Used mouse to drag the scrollbar phrase      | Character section scrolls diagonally & displayed more characters            |
 
-# **Bugs**
-## Fixed Bugs
+
+## Bugs
 * When reducing the screen size, the movie section was not responsive and the movie boxes would squash together instead of spacing and starting a new line. To fix this error I refactored the html code and removed the unique classes each movie had and replaced with one global container with divs. I added flex properties to this container and added the flex-wrap property which makes the divs inside the container responsive
 * When reducing the screen size, the navbar elements would stack on top of eachother underneath the logo. To fix this error I added a media query when the screen size is equal to or less than 720px. When the screen is this size, I add a display:none property to the logo for more spacing. I also reduce the margin and padding to make the elements align beside eachother neatly.
 * When reducing the screen size, the content inside the phrase cards was overflowing outside the container. To fix this bug, I added a media query when the screen size is equal to or less than 500px. In this query, I changed to opacity to 1 so the content is displayed and the hover effects are redundant.
@@ -152,7 +189,7 @@ When I tested my website, an audit report was returned indicating that my websit
 * When validating my html code, I used several h1 tags throughout the website - this is not best practise. I refactored my code to only have one h1 tag that is visible to screen-readers only to ensure my site is acessible to everyone.
 * When viewing the website in edge and interent explorer, the background image was not rendering. After some investigation, I discovered edge and interent explorer cannot render AVIF files. To fix this bug, I converted the AVIF background image to a JPG file.
 
-## Technologies Used
+# Technologies Used
 * [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 * [Google Fonts](https://fonts.google.com/)
@@ -163,32 +200,6 @@ When I tested my website, an audit report was returned indicating that my websit
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
 * [W3C HTML Validator](https://validator.w3.org/#validate_by_input)
 * [Image Convertor](https://www.freeconvert.com/)
-
-# **Credits/References**
-## Content & Media
-* I took inspiration from this [Star Wars Kids](https://www.starwarskids.com/) website. All of the images & content from the character section is from this section.
-* All of the images & content for the movie section is from [Disney Plus](https://www.disneyplus.com/en-gb/home)
-* I used a generic starry night image from twitter for the background.
-* The content for the planet section & the phrases section was taken from [Star Wars Fandom](https://starwars.fandom.com/wiki/Main_Page) & [Star Wars](https://www.starwars.com/)
-
-## Code
-* [CSS Tricks](https://css-tricks.com/) helped me add some advanced styling to my website.
-* [W3Schools](https://www.w3schools.com/) was referenced throughout my project for different tags & syntax.
-* [Youtube](https://www.youtube.com/) was a great source for video tutorials & explanations.
-* [Love Running](https://github.com/emmaC11/CI-loverunning-project) was referenced throughout development.
-* [MDN Web Docs](https://developer.mozilla.org/en-US/) was referenced for some css attributes.
-* [Code Pen](https://codepen.io/) helped me see some sample code and how it worked.
-* [Navbar with Logo](https://www.youtube.com/watch?v=x2hdO15luS0) referenced when trying to position logo on navigation bar.
-* [Colour Overlay](https://codepen.io/ieatwebsites/pen/wpJmXo) helped me create the blue overlay in the movie section.
-* [Media Queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) referenced when creating media queries.
-* [Hover Cards](https://codepen.io/rafaelavlucas/pen/rQWJYG) referenced when creating phrase cards.
-* [Masonry Grid](https://www.youtube.com/watch?v=icnZSJbNsEM) referenced when creating the planets section.
-* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) helpful reference when working with flexbox.
-* [Text Overlay](https://codepen.io/ArnaudBalland/pen/vGZKLr) referenced when adding the text overlay to the character section.
-* [Scrollbar Styling](https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp) referenced when styling the scollbar in the characters section.
-* [Image Scroller](https://css-tricks.com/css-only-carousel/) referenced when creating the image scroll for the characters section.
-
-
 
 # **Deployment**
 ## Project Creation
@@ -222,4 +233,32 @@ I used the following commands throughout the development of this project:
 5. Type the 'git clone' command in the terminal, then paste the git URL. Click return on your keyboard to enter the command.
 6. A clone of the project will be created locally on your machine.
 **Note** - git commands only work if git is installed on your machine. Find installation documentation [here](https://git-scm.com/).
+
+# **Credits/References**
+## Content & Media
+* I took inspiration from this [Star Wars Kids](https://www.starwarskids.com/) website. All of the images & content from the character section is from this section.
+* All of the images & content for the movie section is from [Disney Plus](https://www.disneyplus.com/en-gb/home)
+* I used a generic starry night image from twitter for the background.
+* The content for the planet section & the phrases section was taken from [Star Wars Fandom](https://starwars.fandom.com/wiki/Main_Page) & [Star Wars](https://www.starwars.com/)
+
+## Code
+* [CSS Tricks](https://css-tricks.com/) helped me add some advanced styling to my website.
+* [W3Schools](https://www.w3schools.com/) was referenced throughout my project for different tags & syntax.
+* [Youtube](https://www.youtube.com/) was a great source for video tutorials & explanations.
+* [Love Running](https://github.com/emmaC11/CI-loverunning-project) was referenced throughout development.
+* [MDN Web Docs](https://developer.mozilla.org/en-US/) was referenced for some css attributes.
+* [Code Pen](https://codepen.io/) helped me see some sample code and how it worked.
+* [Navbar with Logo](https://www.youtube.com/watch?v=x2hdO15luS0) referenced when trying to position logo on navigation bar.
+* [Colour Overlay](https://codepen.io/ieatwebsites/pen/wpJmXo) helped me create the blue overlay in the movie section.
+* [Media Queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) referenced when creating media queries.
+* [Hover Cards](https://codepen.io/rafaelavlucas/pen/rQWJYG) referenced when creating phrase cards.
+* [Masonry Grid](https://www.youtube.com/watch?v=icnZSJbNsEM) referenced when creating the planets section.
+* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) helpful reference when working with flexbox.
+* [Text Overlay](https://codepen.io/ArnaudBalland/pen/vGZKLr) referenced when adding the text overlay to the character section.
+* [Scrollbar Styling](https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp) referenced when styling the scollbar in the characters section.
+* [Image Scroller](https://css-tricks.com/css-only-carousel/) referenced when creating the image scroll for the characters section.
+
+
+
+
 
