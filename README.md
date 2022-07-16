@@ -16,7 +16,7 @@ Users of this website will be able to view all the Star Wars movies in chronolog
 * As a first time user, I want to learn about the different phrases used in the franchise.
 * As a first time user, I want to learn about the characters.
 
-# Structure
+## Structure
 This is a single page website, all information is positioned in a specific order, making it easier for users to navigate the website and consume the content in a precise order. There is a navigation bar at the top of the page that seamlessly scrolls/directes users to each section. This allows users to navigate the site easily.
 > As a first time user, I want to navigate throughout the site to find different types of content.
 
