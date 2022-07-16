@@ -145,6 +145,8 @@ When I tested my website, an audit report was returned indicating that my websit
 * When reducing the screen size, the movie section was not responsive and the movie boxes would squash together instead of spacing and starting a new line. To fix this error I refactored the html code and removed the unique classes each movie had and replaced with one global container with divs. I added flex properties to this container and added the flex-wrap property which makes the divs inside the container responsive
 * When reducing the screen size, the navbar elements would stack on top of eachother underneath the logo. To fix this error I added a media query when the screen size is equal to or less than 720px. When the screen is this size, I add a display:none property to the logo for more spacing. I also reduce the margin and padding to make the elements align beside eachother neatly.
 * When reducing the screen size, the content inside the phrase cards was overflowing outside the container. To fix this bug, I added a media query when the screen size is equal to or less than 500px. In this query, I changed to opacity to 1 so the content is displayed and the hover effects are redundant.
+* When viewing the website on a large monitor at work, the site was not responsive. To fix this bug, I updated the css measurements from pixels to rem, making the site more reliable and responsive regardless of screen size.
+* When validating my html code, I used several h1 tags throughout the website - this is not best practise. I refactored my code to only have one h1 tag that is visible to screen-readers only to ensure my site is acessible to everyone.
 
 ## Technologies Used
 * [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
