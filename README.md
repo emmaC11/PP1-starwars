@@ -12,6 +12,9 @@ Users of this website will be able to view all the Star Wars movies in chronolog
 * As a first time user, I want to navigate throughout the site to find different types of content.
 * As a first time user, I want to view the website on my Iphone 5.
 * As a first time user, I want to sign up to the Galaxy Club.
+* As a first time user, I want to learn about the different planets in the Star Wars Galaxy.
+* As a first time user, I want to learn about the different phrases used in the franchise.
+* As a first time user, I want to learn about the characters.
 
 # Structure
 This is a single page website, all information is positioned in a specific order, making it easier for users to navigate the website and consume the content in a precise order. There is a navigation bar at the top of the page that seamlessly scrolls/directes users to each section. This allows users to navigate the site easily.
@@ -25,6 +28,16 @@ CSS Media Queries are used to make the website responsive on different screen si
 
 A section contains a form where users can sign up to the 'Galaxy Club' to stay up-to date with news and events. A user needs to provide their name & email address.
 >As a first time user, I want to sign up to the Galaxy Club.
+
+The Galaxy section contains information about important planets in the galaxy and provides the user with insightful information about each planet. Each planet has a cartoon image that represent what it looks like.
+>As a first time user, I want to learn about the different planets in the Star Wars Galaxy.
+
+The phrases sections contains phrases that are used throughout the Star Wars franchise and provides an in-depth description of what each phrase means.
+>As a first time user, I want to learn about the different phrases used in the franchise.
+
+The characters section information on the main characters in the galaxy. Each character is represented by a cartoon image to match the design of the planet section.
+>As a first time user, I want to learn about the characters.
+
 # Design
 ## Colour Scheme
 content
