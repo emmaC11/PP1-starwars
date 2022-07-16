@@ -46,6 +46,8 @@ The three main colours used throughout the website are blue (#1786eb), yellow (#
 All images are related to the Star Wars Franchise and the website has a cartoon branding approach. The logo image is a lightsaber and a death star which represents the republic and the sith, the story arc of the film. The size & placement of the logo image varies on screen size. All planet images and character images are cartoons to capture visual interest of the user and keep a consistent theme. Images used in the movie section are poster images that were used for press when the movies were released. 
 
 ## Wireframes
+![image](https://user-images.githubusercontent.com/83119583/179348538-61e73435-c2bb-445b-a82f-1415022af236.png)
+![image](https://user-images.githubusercontent.com/83119583/179348568-59af0e06-65eb-491e-8aa9-ddd2ed88628d.png)
 
 # Limitations
 
