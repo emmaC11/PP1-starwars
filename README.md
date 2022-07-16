@@ -212,4 +212,4 @@ I used the following commands throughout the development of this project:
 * Select 'main' branch as the source.
 * Click 'save'.
 * Click the link provided to go to the deployed website.
-* The live link can be found here - [PP1-starwars](emmac11.github.io/pp1-starwars/).
+* The live link can be found here - [PP1-starwars](https://emmac11.github.io/PP1-starwars/).
