@@ -39,6 +39,7 @@ Users of this website will be able to view all the Star Wars movies in chronolog
 * [Credits/References](#creditsreferences)
     * [Content & Media](#content--media)
     * [Code](#code)
+    * [Achknowledgements](#achknowledgements)
 
 
 # **User Experience & Design**
@@ -186,7 +187,7 @@ When I tested my website, an audit report was returned indicating that my websit
 
 
 
-## Bugs Identified
+## Bugs Identified During Testing
 * When reducing the screen size, the movie section was not responsive and the movie boxes would squash together instead of spacing and starting a new line. To fix this error, I refactored the html code and removed the unique classes each movie had and replaced with one global container with divs. I added flex properties to this container and added the flex-wrap property, which makes the divs inside the container responsive
 * When reducing the screen size, the navbar elements would stack on top of eachother underneath the logo. To fix this error, I added a media query when the screen size is equal to or less than 720px. When the screen is this size, I add a display:none property to the logo for more spacing. I also reduce the margin and padding to make the elements align beside eachother neatly.
 * When reducing the screen size, the content inside the phrase cards was overflowing outside the container. To fix this bug, I added a media query when the screen size is equal to or less than 500px. In this query, I changed to opacity to 1 so the content is displayed and the hover effects are redundant.
@@ -262,6 +263,11 @@ I used the following commands throughout the development of this project:
 * [Text Overlay](https://codepen.io/ArnaudBalland/pen/vGZKLr) referenced when adding the text overlay to the character section.
 * [Scrollbar Styling](https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp) referenced when styling the scollbar in the characters section.
 * [Image Scroller](https://css-tricks.com/css-only-carousel/) referenced when creating the image scroll for the characters section.
+
+## Achknowledgements
+
+I would like to thank my mentor Ronan for his guidance throughout my project.
+I would also like to thank Simen for his excellent masterclasses.
 
 
 
