@@ -50,7 +50,7 @@ All images are related to the Star Wars Franchise and the website has a cartoon 
 ![image](https://user-images.githubusercontent.com/83119583/179348568-59af0e06-65eb-491e-8aa9-ddd2ed88628d.png)
 
 # Limitations
-
+As JavaScript is not part of this project stack, data submitted within the form is not stored.
 
 
 # **Features**
