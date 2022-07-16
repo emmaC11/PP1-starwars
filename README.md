@@ -26,7 +26,7 @@ The first section that the user sees is the movie section, which contains inform
 CSS Media Queries are used to make the website responsive on different screen sizes. All sections are responsive and content styling changes based on the screen size the user is viewing the website with. This is to ensure that the content is readable and not squashed, all images are clear & visible.
 >As a first time user, I want to view the website on my Iphone 5.
 
-A section contains a form where users can sign up to the 'Galaxy Club' to stay up-to date with news and events. A user needs to provide their name & email address.
+A section contains a form where users can sign up to the 'Galaxy Club' to stay up-to date with news and events. A user needs to provide their name & email address. As JavaScript is not part of this project stack, data submitted within the form is not stored.
 >As a first time user, I want to sign up to the Galaxy Club.
 
 The Galaxy section contains information about important planets in the galaxy and provides the user with insightful information about each planet. Each planet has a cartoon image that represent what it looks like.
@@ -49,8 +49,6 @@ All images are related to the Star Wars Franchise and the website has a cartoon 
 ![image](https://user-images.githubusercontent.com/83119583/179348538-61e73435-c2bb-445b-a82f-1415022af236.png)
 ![image](https://user-images.githubusercontent.com/83119583/179348568-59af0e06-65eb-491e-8aa9-ddd2ed88628d.png)
 
-# Limitations
-As JavaScript is not part of this project stack, data submitted within the form is not stored.
 
 
 # **Features**
