@@ -40,6 +40,7 @@ Users of this website will be able to view all the Star Wars movies in chronolog
     * [Content & Media](#content--media)
     * [Code](#code)
     * [Achknowledgements](#achknowledgements)
+    * [Grade](#grade)
 
 
 # **User Experience & Design**
@@ -269,6 +270,9 @@ I used the following commands throughout the development of this project:
 
 I would like to thank my mentor Ronan for his guidance throughout my project.
 I would also like to thank Simen for his excellent masterclasses.
+
+## Grade
+This project has achieved a Distinction grade
 
 
 
